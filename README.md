@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Open AI Based app**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Tensorflow**
 
 - 👯 I’m looking to collaborate on **Generative AI**
 

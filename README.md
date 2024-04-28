@@ -1,9 +1,8 @@
 🤗 Hey There, I am Rohan. I am a
  
 <p align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=30&duration=2500&pause=1000&color=7b36eb&center=true&vCenter=true&width=500&lines=ML+Engineer;Data+Science+Enthusiast;AI Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https:readme-typing-svg.demolab.com//font=Georgia&size=30&duration=2500&pause=1000&color=7b36eb&center=true&vCenter=true&width=500&lines=ML+Engineer;Data+Science+Enthusiast;AI Engineer" alt="Typing SVG" /></a>
 </p>
-
 
 ## 📈 &nbsp;Activity Graph
 

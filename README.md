@@ -1,8 +1,9 @@
-🤗 Hey There, I am Rohan. I am a
- 
-<p align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https:readme-typing-svg.demolab.com//font=Georgia&size=30&duration=2500&pause=1000&color=7b36eb&center=true&vCenter=true&width=500&lines=ML+Engineer;Data+Science+Enthusiast;AI Engineer" alt="Typing SVG" /></a>
-</p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RSW1511.RSW1511" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Rohan+Waghode!;" />
+</h1>
+<!--<img align="right" width=200 src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">-->
 
 ## 📈 &nbsp;Activity Graph
 

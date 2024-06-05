@@ -42,21 +42,21 @@ __Machine Learning/Deep Learning__ \
 <img alt="FasiAI" src="https://img.shields.io/badge/fast%20ai-framework-blue?style=for-the-badge&logo=appveyor" />&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RSW1511)](https://git.io/streak-stats)
+<h2 align="left"> Github Stats </h2>
+<br>
+<p><img align="center" length=1350 height=300 src="https://github-readme-streak-stats.herokuapp.com/?user=RSW1511&theme=react" alt="RSW1511" /></p>
+
+  <img width=350 align="left" src="https://github-readme-stats.vercel.app/api?username=RSW1511&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSW1511&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
+</div>
+<br/>
+<hr/>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RSW1511&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div style="text-align: center;">
+    <img src="https://github-contributor-stats.vercel.app/api?username=RSW1511&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+</div>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RSW1511&label=Profile%20views&color=brightgreen&style=flat-square" alt="RSW1511" /> </p>
-
-
-<p align="center">
-<a href="https://github.com/RSW1511">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RSW1511&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RSW1511&layout=compact&langs_count=8&theme=algolia"/>
-</p>
   
  ## 🎖️ &nbsp;Badges
 

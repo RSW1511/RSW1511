@@ -5,10 +5,6 @@
 </h1>
 <!--<img align="right" width=200 src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">-->
 
-## 📈 &nbsp;Activity Graph
-
-[![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RSW1511&theme=tokyo-night)](https://github.com/RSW1511/github-readme-activity-graph)
-
 ## 🛠 &nbsp;Tech Stack
 __Programming Languages__ \
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;

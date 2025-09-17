@@ -1,61 +1,127 @@
-[![Profile Views](https://komarev.com/ghpvc/?username=RSW1511)](https://github.com/RSW1511)
+<h1 align="center">Hey there, I'm <a href="https://github.com/RSW1511" target="_blank">Arya Patil</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Rohan+Waghode!;" />
-</h1>
-<!--<img align="right" width=200 src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">-->
+<h3 align="center">Passionate to build tech stuff. I'm so giddy about learning AIML and Data Science that even my coffee gets jealous of the attention I'm giving to algorithms and data sets! </h3>
 
-## 🛠 &nbsp;Tech Stack
-__Programming Languages__ \
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;
+![gitartwork](work.svg)
 
-__Frameworks and libraries__ \
-<img alt="Streamlit" src="https://img.shields.io/badge/streamlit-red?style=for-the-badge"/>&nbsp;
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+<!--  [![](https://visitcount.itsvg.in/api?id=RSW1511&label=Peek-a-Boo&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=RSW1511&label=Profile%20views&color=0e75b6&style=flat" alt="RSW1511" /> </p>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/RSW1511/RSW1511/main/data.gif" width="310px"/>
 
-__IDEs/Editors__ \
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp;
-<img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+### 🧐 About Me:
+- 🔭 I’m currently working on **AI Based Recognition**
 
-__Version Control__ \
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
+- 🌱 I’m currently learning **Flutter,MongoDB**
 
-__Databases__ \
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
+- 👯 I’m looking to collaborate on **ML Model Development**
 
-__Machine Learning/Deep Learning__ \
-<img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>&nbsp;
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />&nbsp;
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
-<img alt="FasiAI" src="https://img.shields.io/badge/fast%20ai-framework-blue?style=for-the-badge&logo=appveyor" />&nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+- 🤝 I’m looking for help with **Neural Network**
 
-<h2 align="left"> Github Stats </h2>
+- 📝 I regularly write articles on [https://worldstories14.blogspot.com/](https://worldstories14.blogspot.com/)
+
+- 📫 How to reach me **patilarya3133@gmail.com**
+
 <br>
-<p><img align="center" length=1350 height=300 src="https://github-readme-streak-stats.herokuapp.com/?user=RSW1511&theme=react" alt="RSW1511" /></p>
 
-  <img width=350 align="left" src="https://github-readme-stats.vercel.app/api?username=RSW1511&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSW1511&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
-</div>
-<br/>
-<hr/>
+### 🤝 Connect With Me:
+<a href="https://www.linkedin.com/in/arya-patil-94b115210/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arya-patil-94b115210/" height="30" width="40" /></a>
+<a href="https://kaggle.com/arya patil_411" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arya patil_411" height="30" width="40" /></a>
+<a href="https://instagram.com/the_ap4" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_ap4" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/RSW1511" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="RSW1511" height="30" width="40" /></a>
 
-### 🔝 Top Contributed Repo
-<div style="text-align: center;">
-    <img src="https://github-contributor-stats.vercel.app/api?username=RSW1511&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-</div>
+<br>
+<br>
 
+### 🔨 Languages and Tools:
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+<a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> GitHub Stats
+
+  <div align="center">
+    <a href="https://quira.sh?utm_source=widgets&utm_campaign=RSW1511">
+      <img src="https://stats.quira.sh/RSW1511/github?theme=dark" alt="RSW1511's GitHub | Stats" />
+    </a>
+  </div>
   
- ## 🎖️ &nbsp;Badges
 
-  [![@Rohan's Holopin board](https://holopin.me/RSW1511)](https://www.holopin.io/@RSW1511)
+  <table>
+  <tr>
+    <th>Languages Over Time</th>
+    <th>Topics Over Time</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://quira.sh?utm_source=widgets&utm_campaign=RSW1511">
+        <img src="https://stats.quira.sh/RSW1511/languages-over-time?theme=dark" 
+             alt="RSW1511's GitHub | Languages Over Time" />
+      </a>
+    </td>
+    <td>
+      <a href="https://quira.sh?utm_source=widgets&utm_campaign=RSW1511">
+        <img src="https://stats.quira.sh/RSW1511/topics-over-time?theme=dark" 
+             alt="RSW1511's GitHub | Topics Over Time" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>Stats</th>
+    <th>Streak</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RSW1511&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&border_radius=5&border_color=A504EB" 
+           alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RSW1511&theme=nightowl&hide_border=false&border_color=A504EB" 
+           alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+  <tr>
+    <th>Laguages</th>
+    <th>Awards</th>
+  </tr>
+  <tr>
+    <td>
+     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSW1511&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB&include_all_commits=true&count_private=true&layout=compact" />
+    </td>
+    <td>
+     <img width="700" src="https://github-profile-trophy.vercel.app/?username=RSW1511&theme=nightowl&column=5" /> 
+    </td>
+  </tr>
+</table>
+<div align="center">
+  <img  width="1200" src="https://github-readme-activity-graph.vercel.app/graph?username=RSW1511&theme=nightowl&hide_border=false&border_radius=5&border_color=A504EB" />
+</div>
 
-  
+</details>
+
+<br>
+
+![RSW1511 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=RSW1511)
+
+[![@RSW1511's Holopin badges](https://holopin.me/RSW1511)](https://holopin.io/@RSW1511)
